@@ -1,0 +1,32 @@
+.kaina{
+    color:red;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+}
+
+.produktu-eile{
+    margin:auto;
+}
+
+.pavadinimas > a{
+    color:black;
+}
+.pavadinimas > a:hover{
+    color:rgb(88, 88, 88);
+    text-decoration:none;
+}
+
+.nuotrauka > img{
+    vertical-align: middle;
+}
+
+.trumpas-aprasas{
+    margin-bottom:20px;
+}
+
+.kaina{
+    text-align: right;
+}

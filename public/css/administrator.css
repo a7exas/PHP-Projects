@@ -1,0 +1,9 @@
+@media screen and (max-width: 1000px) {
+    .invis{
+        visibility: hidden;
+    }
+}
+
+.btn.btn-default{
+    text-align: right;
+}

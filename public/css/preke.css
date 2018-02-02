@@ -1,0 +1,17 @@
+.main-nuotrauka{
+    margin:auto;
+    display:block;
+}
+img.main-nuotrauka{
+    width:100%;
+}
+.nuotrauka{
+    padding:4vh;
+}
+
+.kaina{
+    color:red;
+}
+.color-red{
+    color:red;
+}

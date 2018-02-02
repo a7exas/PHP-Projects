@@ -1,0 +1,54 @@
+.container-color{
+    background-color:white;
+}
+
+.navbar-brand, .navbar-left a, .navbar-right a{
+    color:white !important;
+}
+
+ .hoveris:hover, .navbar-nav > li > .dropdown-menu a:hover, .dropdown:hover,
+  .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus,
+   .navbar-default .navbar-nav>.open>a:hover{
+    background-color:rgb(160, 160, 160);
+}
+
+.navbar-nav > li > .dropdown-menu{
+    background-color:rgb(143, 143, 143);
+}
+
+.navbar-default{
+    margin-bottom:0;
+}
+
+.content-main{
+    margin-top:30px;
+}
+
+/* Mobile meniu css */
+
+.navbar-toggle.collapsed, 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle{
+    background-color: #bbbbbb;
+    border-color:#7a7a7a;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color:#7a7a7a;
+}
+
+.bottom-color{
+    background-color:rgb(143, 143, 143);
+    color:white;
+}
+
+.container-color{
+    height:100%;
+    min-height:90vh;
+}
+
+.footer{
+    text-align: justify;
+    margin:0;
+    width:100%;
+}
